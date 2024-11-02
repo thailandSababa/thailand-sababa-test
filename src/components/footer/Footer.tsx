@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <div dir="rtl" className="bg-lime-100">
+    <div dir="rtl" className="bg-orange-400">
       {/* <Image
         src="/footer/footer.png"
         alt="footer"

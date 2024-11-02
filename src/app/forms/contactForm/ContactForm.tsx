@@ -39,7 +39,7 @@ const ContactForm = () => {
   };
 
   return (
-    <div dir="rtl" className="relative mb-10 bg-yellow-100 rounded-xl" id="form">
+    <div dir="rtl" className="relative mb-10 bg-lime-200 rounded-xl" id="form">
       <div className="flex flex-col justify-center items-center mt-20 bg-lime- py-8 ">
         <div>
           <h3 className="text-2xl text-center font-semibold">
